@@ -1,0 +1,6 @@
+---
+published: true
+title: A GIT post
+layout: post
+---
+A new post
